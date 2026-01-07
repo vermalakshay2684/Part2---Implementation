@@ -1,0 +1,2 @@
+2026-01-03T15:59:19.878078900 | EHR_UPDATE | referral_id=R011 | patient_id=P0001 | status=Pending | referred_to=C0002
+2026-01-03T16:07:41.575845 | EHR_UPDATE | referral_id=R012 | patient_id=P0002 | status=Pending | referred_to=C0003

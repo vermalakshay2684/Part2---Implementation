@@ -1,0 +1,24 @@
+----- REFERRAL EMAIL (SIMULATED) -----
+Timestamp: 2026-01-03T15:59:19.866074
+To (Specialist Clinician ID): C0002
+From (Referring Clinician ID): C0001
+Patient ID: P0001
+Urgency: Urgent
+Reason: Referral test via Singleton
+Clinical Summary: Clinical summary test for Singleton audit/email/EHR.
+Requested Investigations: Blood test
+Referral ID: R011
+-------------------------------------
+
+----- REFERRAL EMAIL (SIMULATED) -----
+Timestamp: 2026-01-03T16:07:41.569802900
+To (Specialist Clinician ID): C0003
+From (Referring Clinician ID): C0002
+Patient ID: P0002
+Urgency: Routine
+Reason: Blood test
+Clinical Summary: Regular check-ups
+Requested Investigations: Symptoms of Thyroid
+Referral ID: R012
+-------------------------------------
+

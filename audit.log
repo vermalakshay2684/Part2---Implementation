@@ -1,0 +1,2 @@
+2026-01-03T15:59:19.882073300 | CREATED_AND_QUEUED | referral_id=R011 | patient_id=P0001 | from=C0001 | to=C0002 | urgency=Urgent
+2026-01-03T16:07:41.577810900 | CREATED_AND_QUEUED | referral_id=R012 | patient_id=P0002 | from=C0002 | to=C0003 | urgency=Routine
